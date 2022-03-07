@@ -97,6 +97,8 @@ There is one more message I want to leave for you, and is that I will be privati
 <div align="center">
 	<h3>Information provided by archive.org.</h3>
 	<p>Thanks so much to the guy (or crawler) that archived it!</p>
-
-	<img src="https://c.tenor.com/T2lMzW9WdicAAAAC/amogli-edp445.gif">
 </div>
+
+<br><br><br>
+
+<img src="https://c.tenor.com/T2lMzW9WdicAAAAC/amogli-edp445.gif">
